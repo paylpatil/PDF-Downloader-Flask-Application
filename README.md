@@ -66,5 +66,5 @@ pip install flask pandas requests validators openpyxl werkzeug
 - Downloaded PDFs are saved in `./pdf_downloads/`.
 
 ## License
-This project is licensed under the MIT License.
+
 
